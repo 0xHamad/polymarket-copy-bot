@@ -9,7 +9,7 @@ YELLOW='\033[1;33m'
 CYAN='\033[0;36m'
 NC='\033[0m'
 
-REPO_URL="https://github.com/YOUR_USERNAME/polymarket-copy-bot.git"
+REPO_URL="https://github.com/0xhamad/polymarket-copy-bot.git"
 INSTALL_DIR="polymarket-copy-bot"
 
 log_info() { echo -e "${CYAN}[INFO]${NC} $1"; }
