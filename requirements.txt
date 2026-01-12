@@ -1,0 +1,18 @@
+# Core Polymarket SDK
+py-clob-client>=0.25.0
+
+# Web3 & Blockchain
+web3>=6.11.0
+eth-account>=0.10.0
+
+# Async HTTP for speed
+aiohttp>=3.9.1
+
+# Telegram notifications
+python-telegram-bot>=20.7
+
+# Terminal colors
+colorama>=0.4.6
+
+# Utilities
+requests>=2.31.0
